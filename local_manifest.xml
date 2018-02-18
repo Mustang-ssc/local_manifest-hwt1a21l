@@ -2,14 +2,14 @@
 <manifest>
 
     <!-- hwt1a21l -->	
-	<project path="device/huawei/hwt1a21l" name="Mustang-ssc/android_device_huawei_hwt1a21l" revision="cm-14.1-test" />
-	<project path="device/huawei/msm8916-common" name="Mustang-ssc/android_device_huawei_msm8916-common" revision="cm-14.1-test" />
-	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" />
-	<project path="device/cyanogen/msm8916-common" name="Mustang-ssc/android_device_cyanogen_msm8916-common" revision="cm-14.1" />
+	<project path="device/huawei/hwt1a21l" name="Mustang-ssc/android_device_huawei_hwt1a21l" revision="cm-13.0" />
+	<project path="device/huawei/msm8916-common" name="Mustang-ssc/android_device_huawei_msm8916-common" revision="cm-13.0" />
+	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-13.0" />
+	<project path="device/cyanogen/msm8916-common" name="Mustang-ssc/android_device_cyanogen_msm8916-common" revision="cm-13.0" />
 
 	<!-- Propietary -->	
 	<project path="vendor/huawei/hwt1a21l" name="Mustang-ssc/android_vendor_huawei_hwt1a21l" revision="master" />
-	<project path="vendor/huawei" name="TheMuppets/proprietary_vendor_huawei" revision="cm-14.1" />
+	<project path="vendor/huawei" name="TheMuppets/proprietary_vendor_huawei" revision="cm-13.0" />
 
 	<project path="minibuild" name="F4uzan/minibuild" revision="master" />
 

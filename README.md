@@ -1,2 +1,2 @@
 # local_manifest-hwt1a21l
-For LOS14.1 purposes
+For LOS/CM-13.0 purposes
