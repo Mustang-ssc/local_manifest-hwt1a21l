@@ -6,6 +6,7 @@
 	<project path="device/huawei/msm8916-common" name="Mustang-ssc/android_device_huawei_msm8916-common" revision="cm-13.0" />
 	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-13.0" />
 	<project path="device/cyanogen/msm8916-common" name="Mustang-ssc/android_device_cyanogen_msm8916-common" revision="cm-13.0" />
+	<project path="kernel/huawei/msm8916" name="Mustang-ssc/android_kernel_huawei_hwt1a21l" revision="lollipop-stock" />
 
 	<!-- Propietary -->	
 	<project path="vendor/huawei/hwt1a21l" name="Mustang-ssc/android_vendor_huawei_hwt1a21l" revision="master" />
